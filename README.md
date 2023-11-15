@@ -39,7 +39,7 @@ Thank you for taking the time to explore my early work. I am enthusiastic about 
 5. **Documentation:**
    - Documented the development process with screenshots from both Unity and the code itself.
    - Created pseudocode for each piece of code and established test acceptance criteria.
-   - Attached a comprehensive 374-page documentation for those interested in a detailed deep dive (optional reading).
+   - All documented in a comprehensive 374-page documentation.
 
 6. **3D Modeling with Blender:**
    - Designed and created custom models for the game, including trees and buildings, using Blender as the 3D modeling software.
