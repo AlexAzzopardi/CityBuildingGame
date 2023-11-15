@@ -12,4 +12,4 @@ While the coding may appear amateurish in this context, I want to assure you tha
 
 I invite you to explore this creation with the understanding that it captures a pivotal learning phase. I am eager to discuss the project further and provide insights into the advancements I have made in my coding proficiency.
 
-Thank you for taking the time to explore my early work. I am enthusiastic about the opportunity to share my growth and development in the realm of game development.!</p>
+Thank you for taking the time to explore my early work. I am enthusiastic about the opportunity to share my growth and development in the realm of game development!</p>
